@@ -3,3 +3,4 @@ commit 记录索引的状态
 this is another change
 echo aaa
 echo b
+echo bbb
